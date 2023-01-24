@@ -10,7 +10,7 @@ It's a basic Chatbot using NLP. You can have basic conversation with the chatbot
 
 2. Chatterbot==1.0.4
 
-<h3 align="left"> 👨‍💻Usage👨‍💻 </h3>
+How to Run
 
 1.Clone this repository.
 
